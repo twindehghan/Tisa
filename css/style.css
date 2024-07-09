@@ -697,7 +697,8 @@ a:focus {
 }
 
 .info_detail p{
-  direction: rtl;
+  float: right;
+  text-align: right;
 }
 
 .info_section .info_col {
@@ -734,6 +735,7 @@ a:focus {
   display: -ms-flexbox;
   display: flex;
   float: right;
+  text-align: right;
   margin-top: 20px;
   margin-bottom: 10px;
 }
